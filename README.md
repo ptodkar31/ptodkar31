@@ -49,29 +49,6 @@
 </p>
 
 
-<h3 align="left">Technologies:</h3>
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/artificial-intelligence/artificial-intelligence-original.svg" alt="artificial intelligence" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/machine-learning/machine-learning-original.svg" alt="machine learning" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/natural-language-processing/natural-language-processing-original.svg" alt="natural language processing" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/data-analysis/data-analysis-original.svg" alt="data analysis" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/computer-vision/computer-vision-original.svg" alt="computer vision" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/generative-ai/generative-ai-original.svg" alt="generative AI" width="40" height="40"/>
-  </a>
-</p>
-
-
 
 
 
