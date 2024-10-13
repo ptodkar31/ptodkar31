@@ -45,3 +45,29 @@
 
 
 
+<h3 align="left">Technologies:</h3>
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Artificial_intelligence_icon.png" alt="artificial intelligence" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/ML-logo.png" alt="machine learning" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Natural_language_processing.svg" alt="natural language processing" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Data_analysis_icon.png" alt="data analysis" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Computer_vision_icon.png" alt="computer vision" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Generative_AI_icon.png" alt="generative AI" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+
+
